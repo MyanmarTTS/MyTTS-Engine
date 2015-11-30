@@ -455,33 +455,5 @@ namespace Speech_Typing.Properties {
                 return ResourceManager.GetString("Syallable1000", resourceCulture);
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
-        ///&lt;font&gt;
-        ///  &lt;fontTable&gt;
-        ///    &lt;Zawgyi&gt;&amp;#x103D;&lt;/Zawgyi&gt;   &lt;!--ပင့် ရစ် ဆွဲ ထိုး overwrite ဖြစ် လို့ ပြောင်းပြန်ယူထား--&gt;  
-        ///    &lt;Myanmar3&gt;ှ&lt;/Myanmar3&gt;
-        ///  &lt;/fontTable&gt;
-        ///  &lt;fontTable&gt;
-        ///    &lt;Zawgyi&gt;&amp;#x103C;&lt;/Zawgyi&gt;
-        ///    &lt;Myanmar3&gt;ွ&lt;/Myanmar3&gt;
-        ///  &lt;/fontTable&gt;
-        ///  &lt;fontTable&gt;
-        ///    &lt;Zawgyi&gt;&amp;#x103B;&lt;/Zawgyi&gt;
-        ///    &lt;Myanmar3&gt;ြ&lt;/Myanmar3&gt;
-        ///  &lt;/fontTable&gt;
-        ///  &lt;fontTable&gt;
-        ///    &lt;Zawgyi&gt;&amp;#x103A;&lt;/Zawgyi&gt;
-        ///    &lt;Myanmar3&gt;ျ&lt;/Myanmar3&gt;
-        ///  &lt;/fontTable&gt;
-        ///  &lt;fontTable&gt;
-        ///    &lt;Zawgyi&gt;&amp;#x107E;&lt;/Z [rest of string was truncated]&quot;;.
-        /// </summary>
-        internal static string Zawgyi {
-            get {
-                return ResourceManager.GetString("Zawgyi", resourceCulture);
-            }
-        }
     }
 }

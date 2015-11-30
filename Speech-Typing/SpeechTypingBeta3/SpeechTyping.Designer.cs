@@ -112,8 +112,7 @@
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
             this.toolStripMenuItem1.Size = new System.Drawing.Size(154, 22);
             this.toolStripMenuItem1.Text = "Save Audio File";
-            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
-            // 
+           
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Image = global::Speech_Typing.Properties.Resources.Save;
@@ -203,7 +202,7 @@
             this.pasteToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.V)));
             this.pasteToolStripMenuItem.Size = new System.Drawing.Size(164, 22);
             this.pasteToolStripMenuItem.Text = "Paste";
-            this.pasteToolStripMenuItem.Click += new System.EventHandler(this.pasteToolStripMenuItem_Click);
+    
             // 
             // toolStripSeparator4
             // 
@@ -241,7 +240,7 @@
             this.convertToUnicodeToolStripMenuItem.Name = "convertToUnicodeToolStripMenuItem";
             this.convertToUnicodeToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
             this.convertToUnicodeToolStripMenuItem.Text = "Convert to Unicode";
-            this.convertToUnicodeToolStripMenuItem.Click += new System.EventHandler(this.convertToUnicodeToolStripMenuItem_Click);
+    
             // 
             // helpToolStripMenuItem
             // 
@@ -281,8 +280,7 @@
             this.txtBox1.Name = "txtBox1";
             this.txtBox1.Size = new System.Drawing.Size(724, 373);
             this.txtBox1.TabIndex = 1;
-            this.txtBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
-            this.txtBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
+    
             // 
             // saveFileDialog1
             // 
