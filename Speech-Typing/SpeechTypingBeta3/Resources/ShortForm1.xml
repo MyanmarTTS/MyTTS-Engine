@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Customer_Data>
+<short>
+    <src>က</src>
+    <trg>1000</trg>
+  </short>
+  <short>
+    <src>ခ</src>
+    <trg>1001</trg>
+  </short>
+  <short>
+    <src>ဂ</src>
+    <trg>1002</trg>
+  </short>
+  <short>
+    <src>ဃ</src>
+    <trg>1003</trg>
+  </short>
+  <short>
+    <src>င</src>
+    <trg>1004</trg>
+	</short>
+	<short>
+	<src>စ</src>
+	 <trg>1005</trg>
+  </short>
+  <short>
+	<src>ဆ</src>
+	 <trg>1006</trg>
+  </short>
+  <short>
+	<src>ဇ</src>
+	 <trg>1007</trg>
+  </short>
+  <short>
+	<src>ဈ</src>
+	 <trg>1008</trg>
+  </short>
+  <short>
+	<src>ဉ</src>
+	 <trg>1009</trg>
+  </short>
+  <short>
+  <src>ည</src>
+  <trg>100A</trg>
+  </short>
+<short>
+<src>ဋ</src>
+<trg>100B</trg>
+</short>
+<short>
+<src>ဌ</src>
+<trg>100C</trg>
+</short>  
+<short>
+<src>ဍ</src>
+<trg>100D</trg>
+</short>
+<short>
+<src>ဎ</src>
+<trg>100E</trg>
+</short>
+<short>
+<src>ဏ</src>
+<trg>100F</trg>
+</short>
+<short>
+<src>တ</src>
+<trg>1010</trg>
+</short>
+<short>
+<src>ထ</src>
+<trg>1011</trg>
+</short>
+<short>
+<src>ဒ</src>
+<trg>1012</trg>
+</short>
+<short>
+<src>ဓ</src>
+<trg>1013</trg>
+</short>
+<short>
+<src>န</src>
+<trg>1014</trg>
+</short>
+<short>
+<src>ပ</src>
+<trg>1015</trg>
+</short>
+<short>
+<src>ဖ</src>
+<trg>1016</trg>
+</short>
+<short>
+<src>ဗ</src>
+<trg>1017</trg>
+</short>
+<short>
+<src>ဘ</src>
+<trg>1018</trg>
+</short>
+<short>
+<src>မ</src>
+<trg>1019</trg>
+</short>
+<short>
+<src>ယ</src>
+<trg>101A</trg>
+</short>
+<short>
+<src>ရ</src>
+<trg>101B</trg>
+</short>
+<short>
+<src>လ</src>
+<trg>101C</trg>
+</short>
+<short>
+<src>ဝ</src>
+<trg>101D</trg>
+</short>
+<short>
+<src>သ</src>
+<trg>101E</trg>
+</short>
+<short>
+<src>ဟ</src>
+<trg>101F</trg>
+</short>
+<short>
+<src>ဠ</src>
+<trg>1020</trg>
+</short>
+<short>
+<src>အ</src>
+<trg>1021</trg>
+</short>
+  </Customer_Data>

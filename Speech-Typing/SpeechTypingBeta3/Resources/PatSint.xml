@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Customer_Data>
+<short>
+    <src>သမ္မတ</src>
+    <trg>101P_1</trg>
+</short>
+<!--
+<short>
+   <src>ကဏ္ဍ</src>
+   <trg>101P_2</trg>
+</short>
+<short>
+    <src>ကျမ</src>
+    <trg>101P_3</trg>
+</short>
+ -->
+<short>
+    <src>မင်္ဂလာ</src>
+    <trg>101P_4</trg>
+</short>
+<short>
+    <src>ကိစ္စ</src>
+    <trg>101P_5</trg>
+</short>
+<short>
+    <src>ပညာ</src>
+    <trg>101P_6</trg>
+</short>
+<short>
+    <src>သမီး</src>
+    <trg>101P_7</trg>
+</short>
+<short>
+  <src>သေနတ်</src>
+   <trg>101P_8</trg>
+</short>
+ <short>
+   <src>ဒီမိုကရေစီ</src>
+   <trg>101P_9</trg>
+  </short>
+  <short>
+	<src>ဥက္ကဋ္ဌ</src>
+	<trg>101P_10</trg>
+</short>
+<short>
+	<src>လက္ခဏာ</src>
+	<trg>101P_11</trg>
+</short>
+<short>
+	<src>အန္တရယ်</src>
+	<trg>101P_12</trg>
+</short>
+<short>
+	<src>ကုမ္ပဏီ</src>
+	<trg>101P_13</trg>
+</short>
+<short>
+	<src>သီတင်း</src>
+	<trg>101P_14</trg>
+</short>  
+<short>
+	<src>ကျွန်ုပ်</src>
+	<trg>101P_15</trg>
+</short>
+<short>
+	<src>ယောက်ျား</src>
+	<trg>101P_16</trg>
+</short>
+<short>
+	<src>ကျနော်</src>
+	<trg>101P_17</trg>
+</short>
+<short>
+	<src>ကလေး</src>
+	<trg>101P_19</trg>
+</short>
+<short>
+	<src>ဥက္ကဌ</src>
+	<trg>101P_10</trg>
+</short>
+<!--<short>
+	<src>ပါမေက္ခ</src>
+	<trg>101P_21</trg>
+</short>
+-->
+<short>
+	<src>မောက္ခ</src>
+	<trg>101P_22</trg>
+</short>
+<short>
+	<src>ဖေးမ</src>
+	<trg>101P_23</trg>
+</short>
+<short>
+	<src>ဒေသ</src>
+	<trg>101P_24</trg>
+</short><short>
+	<src>ယူဆ</src>
+	<trg>101P_25</trg>
+</short>
+<short>
+	<src>ပထမ</src>
+	<trg>101P_26</trg>
+</short>
+  </Customer_Data>
